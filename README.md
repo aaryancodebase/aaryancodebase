@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aaryan Bose
+- 👋 Hi, I’m Aaryan Bose
 - 👀 I’m interested in JAVA | C++ | 3D Designing
 - 🌱 I’m currently learning JAVA
 - 📫 Contact me at aaryanbose22@gmail.com
