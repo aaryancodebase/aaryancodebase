@@ -26,7 +26,7 @@
 
 ```bash
 💻 Languages:        Python | Java | C++ | HTML | CSS | SQL
-🛠️ Tools & Tech:    Django | Blender | MySQL | Photoshop | VS Code
+🛠️ Tools & Tech:     Django | Blender | MySQL | Photoshop | VS Code
 📱 Learning:         Android Studio | Kotlin | Django | APIs
 ```
 
