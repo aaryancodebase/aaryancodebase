@@ -2,10 +2,9 @@
 <h3 align="center">🎓 BCA Student | 🛠️ Web & App Developer | 🎨 3D Artist | 🏋️ Gym Rat</h3>
 
 ---
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-
-### 👨‍💻 About Me
+<table>
+<tr>
+<td width="55%">
 
 - 🧠 I'm passionate about tech, fitness, and creative expression  
 - 💻 Currently learning **Django**, **Kotlin**, and **Android Development**  
@@ -13,6 +12,14 @@
 - 📈 On a journey to become more **disciplined** & **focused**  
 - ✨ Always learning, lifting, and leveling up
 
+</td>
+<td>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+
+</td>
+</tr>
+</table>
 ---
 
 ### 🛠️ Tech Stack
