@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aaryanbose&theme=tokyonight&row=1&column=6&margin-w=10&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=FirefoxAaryan&theme=tokyonight&row=1&column=6&margin-w=10&margin-h=15" />
 </p>
 
 ---
