@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Aaryan Bose 👋</h1>
+![image](https://github.com/user-attachments/assets/96faf0cb-2ada-49ec-8fc2-3077d8d2ca6f)<h1 align="center">Hey, I'm Aaryan Bose 👋</h1>
 <h3 align="center">🎓 BCA Student | 🛠️ Web & App Developer | 🎨 3D Artist | 🏋️ Gym Rat</h3>
 
 ---
@@ -28,8 +28,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaryanbose&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaryanbose&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FirefoxAaryan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FirefoxAaryan&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
