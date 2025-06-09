@@ -74,7 +74,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:aaryanbose22@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 
 </p>
