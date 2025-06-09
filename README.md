@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/96faf0cb-2ada-49ec-8fc2-3077d8d2ca6f)<h1 align="center">Hey, I'm Aaryan Bose 👋</h1>
+<h1 align="center">Hey, I'm Aaryan Bose 👋</h1>
 <h3 align="center">🎓 BCA Student | 🛠️ Web & App Developer | 🎨 3D Artist | 🏋️ Gym Rat</h3>
 
 ---
