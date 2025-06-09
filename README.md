@@ -1,10 +1,68 @@
-- 👋 Hi, I’m Aaryan Bose
-- 👀 I’m interested in PROGRAMMING (JAVA C C++) | EDITING | 3D Designing
-- 🌱 I’m currently learning JAVA AND SOFTWARE DEVELOPMENT
-- 📫 Contact me at aaryanbose22@gmail.com
-- 😄 Pronouns: He/Him
+<h1 align="center">Hey, I'm Aaryan Bose 👋</h1>
+<h3 align="center">🎓 BCA Student | 🛠️ Web & App Developer | 🎨 3D Artist | 🏋️ Gym Rat</h3>
 
-<!---
-FirefoxAaryan/FirefoxAaryan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+
+### 👨‍💻 About Me
+
+- 🧠 I'm passionate about tech, fitness, and creative expression  
+- 💻 Currently learning **Django**, **Kotlin**, and **Android Development**  
+- 🎮 I love experimenting with Games, Blender, and building side projects  
+- 📈 On a journey to become more **disciplined** & **focused**  
+- ✨ Always learning, lifting, and leveling up
+
+---
+
+### 🛠️ Tech Stack
+
+```bash
+💻 Languages:        Python | Java | C++ | HTML | CSS | SQL
+🛠️ Tools & Tech:    Django | Blender | MySQL | Photoshop | VS Code
+📱 Learning:         Android Studio | Kotlin | Django | APIs
+```
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aaryanbose&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaryanbose&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aaryanbose&theme=tokyonight&row=1&column=6&margin-w=10&margin-h=15" />
+</p>
+
+---
+
+### 🔧 Currently Building
+
+- 📱 A fitness tracker Android app using Kotlin  
+- 🧩 A portfolio site to showcase my dev + creative work
+
+---
+
+### 🎯 2025 Goals
+
+- 🔥 Bulk up and hit physique milestone  
+- 📱 Release a full-stack mobile app  
+- 🚀 Land an internship in web or game dev  
+- ✍️ Contribute to open-source
+
+---
+
+### 💬 Motto
+
+> “No half-measures. Outwork yesterday — in code, in the gym, in life.”
+
+---
+
+### 🌐 Connect with Me
+
+<p>
+  <a href="www.linkedin.com/in/aaryan-bose-bb0307322"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:aaryanbose22@gmail.com"><img src="https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white" /></a>
+</p>
