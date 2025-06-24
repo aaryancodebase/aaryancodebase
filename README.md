@@ -37,10 +37,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaryancodebase&show_icons=true&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aaryancodebase&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaryancodebase&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-<!-- Removed additional cards to avoid API blocking and image overload -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aaryancodebase&theme=tokyonight&row=1&column=6&margin-w=10&margin-h=15" />
+</p>
 
 ---
 
