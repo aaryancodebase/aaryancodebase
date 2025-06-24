@@ -2,6 +2,7 @@
 <h3 align="center">🎓 BCA Student | 🛠️ Web & App Developer | 🎨 3D Artist | 🏋️ Gym Rat</h3>
 
 ---
+
 <table>
 <tr>
 <td width="55%">
@@ -20,6 +21,7 @@
 </td>
 </tr>
 </table>
+
 ---
 
 ### 🛠️ Tech Stack
@@ -27,7 +29,7 @@
 ```bash
 💻 Languages:        Python | Java | C++ | HTML | CSS | SQL
 🛠️ Tools & Tech:     Django | Blender | MySQL | Photoshop | VS Code
-📱 Learning:          Android Studio | Kotlin | Django | APIs
+📱 Learning:         Android Studio | Kotlin | Django | APIs
 ```
 
 ---
@@ -35,13 +37,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaryancodebase&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaryancodebase&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aaryancodebase&show_icons=true&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aaryancodebase&theme=tokyonight&row=1&column=6&margin-w=10&margin-h=15" />
-</p>
+<!-- Removed additional cards to avoid API blocking and image overload -->
 
 ---
 
@@ -76,5 +75,4 @@
   <a href="mailto:aaryanbose22@gmail.com">
     <img src="https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-
 </p>
