@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Aaryan Bose 👋</h1>
-<h3 align="center">🎓 BCA Student | 🛠️ Web & App Developer | 🎨 3D Artist | 🏋️ Gym Rat</h3>
+<h3 align="center">🎓 BCA Student | 🛠️ Web & App Developer | 🎨 3D Artist </h3>
 
 ---
 
